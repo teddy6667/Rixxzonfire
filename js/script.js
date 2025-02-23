@@ -1,7 +1,7 @@
-console.log("make by Teddy 2106 
+console.log("make by Teddy 2106")
 
 setInterval(() => {
-	console.log("make by Teddy 2106 
+	console.log("make by Teddy 2106")
 }, 10000)
 
 let nt = document.getElementById("toggler");
